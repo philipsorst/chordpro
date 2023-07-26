@@ -1,0 +1,60 @@
+{
+    "diagrams": {
+        "show": "none"
+    },
+    "pdf": {
+        "fonts": {
+
+            "title": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Bold.ttf",
+                "size": 19
+            },
+            "subtitle": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "size": 16
+            },
+            "annotation": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "size": 14
+            },
+            "chord": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "size": 14
+            },
+            "chordfingers": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "size": 14
+            },
+            "comment": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "size": 14
+            },
+            "tab": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "size": 14
+            },
+            "text": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "size": 14
+            },
+            "toc": {
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "size": 14
+            }
+        },
+        "formats": {
+            "first": {
+                "title": [
+                    "",
+                    "%{title}",
+                    ""
+                ],
+                "subtitle": [
+                    "",
+                    "%{artist}",
+                    "%{tempo}"
+                ]
+            }
+        }
+    }
+}

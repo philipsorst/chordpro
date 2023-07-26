@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --rm -t -v /var/git/github.com/philipsorst/chordpro/:/opt/chordpro/ dontdrinkandroot/chordpro chordpro "$@"
