@@ -4,7 +4,6 @@
     },
     "pdf": {
         "fonts": {
-
             "title": {
                 "file": "/usr/share/fonts/truetype/charis/CharisSIL-Bold.ttf",
                 "size": 19
@@ -18,7 +17,7 @@
                 "size": 14
             },
             "chord": {
-                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Italic.ttf",
                 "size": 14
             },
             "chordfingers": {
@@ -43,6 +42,13 @@
             }
         },
         "formats": {
+            "default": {
+                "footer": [
+                    "%{artist}",
+                    "%{page}",
+                    "%{title}"
+                ]
+            },
             "first": {
                 "title": [
                     "",

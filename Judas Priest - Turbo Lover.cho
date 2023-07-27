@@ -1,19 +1,17 @@
 {artist:Judas Priest}
 {title:Turbo Lover}
 
-{comment:Intro}
-E
+[E]
 
 [E]You won't hear me, but you'll feel me
 [Dsus2/E]Without warning, [C/E]something's dawn[A]in[G]g, [E]listen
 
-{comment:Verse 2}
+{start_of_verse}
 [E]Then within your senses
 [E]You'll know you're defenseless
 [Dsus2/E]How your heart beats [C/E]when you r[A]un f[G]or c[E]over
 [Dsus2/E]You can't retreat I  [C/E]spy like no oth[E5]er.
-
-{comment:Pre-Chorus}
+{end_of_verse}
 
 [E5]Then we race together.
 We can ride forever
@@ -21,46 +19,50 @@ We can ride forever
 [C/E]Driving [A5]int[G5]o f[E5]ury
 [Dsus2/E]Changing gear I [C/E]pull you [A5]tigh[G5]ter [B5]to me[Bm7]
 
-{comment:Chorus}
-
+{start_of_chorus}
 [E5]I'm your turbo lover[G5][D5]
 [C5]Tell me [A5]there's [G5]no [E5]other
 [E5]I'm your turbo lover[G5][D5]
 [D5]Better [A5]run [G5]for [E5]cover
+{end_of_chorus}
 
-{comment:Verse 3}
+{start_of_verse}
 We [E5]hold each other closer, as we [C/E]shift to overdrive
 And [A5]everything goes rushing by,[G5]  with [E5]every nerve alive[D5]
 We [E5]move so fast it seems as though we've tak[C/E]en to the sky
 [A5]Love machines in a harmony,[G5]  we [E5]hear the engines cry.[B5]
+{end_of_verse}
 
-{comment:Chorus}
+{start_of_chorus}
 [E5]I'm your turbo lover
 [G5]   [D5]   [C5]Tell me [A5]there's [G5]no [E5]other
 [E5]I'm your turbo lover
 [G5]   [D5]   [D5]Better [A5]run [G5]for [E5]cover
+{end_of_chorus}
 
+{start_of_grid 4x1:Synth}
+| Bm/D | Am | G | D |
+| D    | Am | G | D |
+{end_of_grid}}
 
-{comment:Bridge}
-[Bm/D][Am][G][D]
-[D][Am][G][D]
+{start_of_grid 4x1:Solo}
+| E | C | A | E |
+| E | C | A | E |
+{end_of_grid}
 
-{comment:Solo}
-[E5][C5][A5][D5]
-[E5][D5][E5][C5]
-[A5][D5][E5][D5]
-
-{comment:Verse 4}
+{start_of_verse}
 [E5]On and on we're charging to the [C/E]place so many seek
 In [A5]perfect synchronicity[G5]  of [E5]which so many speak[D5]
 We [E5]feel so close to heaven in this roar[C/E]ing heavy load
 And [A5]then in sheer abandonment,[G5]  we [E5]shatter and explode.[B5]
+{end_of_verse}
 
-{comment:Chorus}
+{start_of_chorus}
 [E5]I'm your turbo lover
 [G5]   [D5]   [C5]Tell me [A5]there's [G5]no [E5]other
 [E5]I'm your turbo lover
 [G5]   [D5]   [D5]Better [A5]run [G5]for [E5]cover
+{end_of_chorus}
 
 {comment:Fade Out}
 [E5]I'm your turbo lover
