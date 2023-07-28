@@ -18,14 +18,19 @@
             },
             "chord": {
                 "file": "/usr/share/fonts/truetype/charis/CharisSIL-Italic.ttf",
-                "size": 14
+                "size": 14,
+                "color": "#404040"
             },
             "chordfingers": {
                 "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
                 "size": 14
             },
             "comment": {
-                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+                "file": "/usr/share/fonts/truetype/charis/CharisSIL-Italic.ttf",
+                "size": 10,
+                "background": "none"
+            },
+            "grid": {
                 "size": 14
             },
             "tab": {
@@ -39,6 +44,17 @@
             "toc": {
                 "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
                 "size": 14
+            }
+        },
+        "grids": {
+            "cellbar": {
+                "color": "#000000"
+            },
+            "volta": {
+                "color": "#000000"
+            },
+            "symbols": {
+                "color": "#000000"
             }
         },
         "formats": {
